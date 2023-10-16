@@ -6,6 +6,7 @@ EDiPOP is a user-friendly OBD module which connects through WiFi to a mobile sma
 A set of various live engine data fetched from the ECU/TCU/Sensors is presented in the browser. The data assists in monitoring engine health and performance capacity. 
 
 Start you engine and your ready to log and display data in the matter of seconds.  
+
 • OBD dongle format, easy to install. No need for permanent installation and wiring  
 • 2-5 times faster refresh rate compared to other similar market leading tools   
 • Mukltiple pre-defined screens with essential live engine/transmission data values   
@@ -18,26 +19,29 @@ Start you engine and your ready to log and display data in the matter of seconds
 **Screens views**  
 • TEMP - engine temperatures  
 • TIMING - cylinder timing pull  
-• BOOST - boost & wg control  
-• FUELING - Injection, lambda and pressure  
+• BOOST - boost, wg control, oil pressure   
+• FUELING - injection, lambda and pressure  
 • KNOCK - knock voltage  
 • MISFIRES - misfire count  
-• MULTI -   
-• TURBO -   
+• MULTI - lambda, ignition, boost and max timing pull    
+• TURBO - ignition, boost and external EGT/EMAP sensor measurements   
 • TCU - transmission pressure, temperature and launch count  
-• TIMES — acceleration measurements  
-• BLEND - external ethanol sensor data  
+• TIMES - acceleration measurements  
+• BLEND - external ethanol sensor measurement
 
-**Preconditions**
-• 2.4GHz Wi-Fi Hotspot mobile smart device sharing compatibility
-• Google Chrome or Safari web browser, other browsers might work 
-• Ethernet access
+**Preconditions**  
+• 2.4GHz Wi-Fi Hotspot mobile smart device sharing compatibility  
+• Google Chrome or Safari web browser, other browsers might work   
+• Ethernet access  
 
-**Compatibility** 
+**Compatibility**   
 • Simos 18.1  
 • Simos12   
 • MED17.1.62  
 • MG1CS163  
 
-**Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly. 
-Developed by: Eduard Popov**
+**Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly!**
+
+
+![Uploading image.png…]()
+
