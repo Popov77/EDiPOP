@@ -16,19 +16,6 @@ Start you engine and your ready to log and display data in the matter of seconds
 • Graph view for enhanced logging capability and sharing  
 • Free updates  
 
-**Screens views**  
-• TEMP - engine temperatures  
-• TIMING - cylinder timing pull  
-• BOOST - boost, wg control, oil pressure   
-• FUELING - injection, lambda and pressure  
-• KNOCK - knock voltage  
-• MISFIRES - misfire count  
-• MULTI - lambda, ignition, boost and max timing pull    
-• TURBO - ignition, boost and external EGT/EMAP sensor measurements   
-• TCU - transmission pressure, temperature and launch count  
-• TIMES - acceleration measurements  
-• BLEND - external ethanol sensor measurement
-
 **Preconditions**  
 • 2.4GHz Wi-Fi Hotspot mobile smart device sharing compatibility  
 • Google Chrome or Safari web browser, other browsers might work   
@@ -42,9 +29,37 @@ Start you engine and your ready to log and display data in the matter of seconds
 
 **Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly!**
   
-  
-  
+-------------------------------------------------------------------------------------------------------------------------------------------  
+
+**Screens views**  
+• TEMP - engine temperatures  
+• TIMING - cylinder timing pull  
+• BOOST - boost, wg control, oil pressure   
+• FUELING - injection, lambda and pressure  
+• KNOCK - knock voltage  
+• MISFIRES - misfire count  
+• MULTI - lambda, ignition, boost and max timing pull    
+• TURBO - ignition, boost and external EGT/EMAP sensor measurements   
+• TCU - transmission pressure, temperature and launch count  
+• TIMES - acceleration measurements  
+• BLEND - external ethanol sensor measurement
 
 ![image](https://github.com/Popov77/EDiPOP/assets/59052047/2b763626-b84c-4de1-b87a-951e7223f6a9)
+
+**Hz**  
+Hz = how many times all parameters are refereshed per second.  
+The Hz indicator shows the speed of the can bus data and sensors shown in the screen view. It will be different between screen views as the ECU/TCU has different response time depending on the parameters requested. The ECU/TCU model also has a large impact on the read out speed of parameters.  
+The update frequencey of the Hz indicator itself has intentionally been sloved down to avoid high speed flickering, making it easier to read.   
+
+Following indicators can be displayed by the Hz counter.  
+**-** - Engine not running   
+**=** - Running engine  
+**e1** - Communication loss  
+
+Reconnect EDiPOP and check your mobile smart device connections if you get the **e1** indication   
+
+
+
+
 
 
