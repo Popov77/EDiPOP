@@ -52,9 +52,9 @@ The Hz indicator shows the speed of the can bus data and sensors shown in the sc
 The update frequencey of the Hz indicator itself has intentionally been sloved down to avoid high speed flickering, making it easier to read.   
 
 Following indicators can be displayed by the Hz counter.  
-**-** - Engine not running   
-**=** - Running engine  
-**e1** - Communication loss  
+**-** Engine not running   
+**=** Running engine  
+**e1** Communication loss  
 
 Reconnect EDiPOP and check your mobile smart device connections if you get the **e1** indication   
 
