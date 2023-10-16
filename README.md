@@ -43,5 +43,6 @@ Start you engine and your ready to log and display data in the matter of seconds
 **Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly!**
 
 
-![Uploading image.png…]()
+![image](https://github.com/Popov77/EDiPOP/assets/59052047/2b763626-b84c-4de1-b87a-951e7223f6a9)
+
 
