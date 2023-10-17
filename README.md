@@ -69,9 +69,14 @@ EDiPOP checks if any ECU/TCU DTC's are present when shifting in-between screen v
 # Connect  
 Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android and apple smart devices require data coverage to allow hotspot sharing. 
 Follow these steps to connect EDiPOP upon your initial set up.  
-1. Activate your hotspot sharing
-2. Change your **SSID** name to Hotspot and password to **abcd1234** 
-3. Identify the IP address of EDIPOP in the listed hotspot connections   
+1. Activate your hotspot sharing  
+2. Set to 2.4GHz broadband  
+3. Change your **SSID** name to Hotspot and password to **abcd1234**  
+4. Connect EDiPOP to the OBD connector    
+5. Identify the IP address of EDIPOP in the listed hotspot connections  
+6. Start your browser and enter your IP number, example: **192.168.34.188/0**  
+
+EDiPOP should auto connect next time you go for a ride if the above settings have not been changed.  
 
 # Connections  
 EDiPOP pin out enables for external connections, specific details found below. 
@@ -103,12 +108,12 @@ Following features are available when using MiPOP.
 **EGT2** , Exhaust gas temperature sensor, reading from 100-1000C    
 **EMAP** , Exhaust backpressure sensor, 0-10bar  
 
-**PWR** needs 12V, connect to a fused (10A) ignition controlled source.  
-**COM** Connect **T** to pin **10** on the obd connector, OBD pin out available in the connection chapter.  
+**PWR** needs 12V, connect to a fused (10A) ignition controlled source    
+**COM** Connect **T** to pin **10** on the obd connector, OBD pin out available in the connection chapter    
 
 ![20231017_062911](https://github.com/Popov77/EDiPOP/assets/59052047/b0762c45-b82c-42e4-9297-c451818235e9)
 
-**Compatble sensors**  
+**Compatible sensors**  
 The exahust gas temperature sensors need to be k-type and suitable for >1000C.  
 PIC   
 
