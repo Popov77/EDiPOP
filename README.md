@@ -1,6 +1,7 @@
 # EDiPOP
 
-![image](https://github.com/Popov77/EDiPOP/assets/59052047/09ec6bb1-3284-4f13-ae8d-0e5171de9561)
+![184566707_2064185513723466_4226522359891638157_n (1)](https://github.com/Popov77/EDiPOP/assets/59052047/8b256e4f-fe04-46b0-a9ae-b84b460ad3ec)  
+
 
 # Introduction
 
@@ -46,7 +47,7 @@ Start you engine and your ready to log and display data in the matter of seconds
 • TIMES - acceleration measurements  
 • BLEND - external ethanol sensor measurement
 
-![image](https://github.com/Popov77/EDiPOP/assets/59052047/2b763626-b84c-4de1-b87a-951e7223f6a9)
+![Untitled](https://github.com/Popov77/EDiPOP/assets/59052047/2f81678f-2400-4933-82f6-b58b6420b510)  
 
 **Hz**  
 Hz = how many times all parameters are refreshed per second.  
@@ -89,16 +90,16 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 **10** , MiPOP communication pin, see chapter MiPOP for further details    
 **11** , MiPOP communication pin, see chapter MiPOP for further details    
 
-![EDiPOP pin_out v2 (1)](https://github.com/Popov77/EDiPOP/assets/59052047/5dbf3732-422f-4744-acca-8da9d59de35b)
+![EDiPOP pin_out v2 (1)](https://github.com/Popov77/EDiPOP/assets/59052047/aaede381-d03b-40b0-b5d8-6e7d6cd0bae6)  
 
 **Ethanol sensor**  
 Picture below demonstrates how to wire the ethanol sensor.  
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
-![EDiPOP - Ethanol wiring (3)](https://github.com/Popov77/EDiPOP/assets/59052047/c4e59aa5-93ea-4f03-be82-2f99d3770e7b)
+![EDiPOP - Ethanol wiring (3)](https://github.com/Popov77/EDiPOP/assets/59052047/fa5b2673-840c-420e-88e0-9d5415ec2be8)  
 
 The following ethanol sensor is proven to work, GM 13577429 .  
 Be carful as you purchase your sensor, several replicas out on the market.   
-![d3880c617ad69f5d4275668f1da2f5c2 (2)](https://github.com/Popov77/EDiPOP/assets/59052047/372a540a-f05e-4a60-8e26-1eaa12474661)
+![d3880c617ad69f5d4275668f1da2f5c2 (2)](https://github.com/Popov77/EDiPOP/assets/59052047/1cd5f30b-cd5e-4aa4-8bf5-b3dcdf74eb46)  
 
 # MiPOP  
 MiPOP is a extension module with added inputs and outputs for future platform expansions. 
@@ -111,7 +112,7 @@ Following features are available when using MiPOP.
 **PWR** needs 12V, connect to a fused (10A) ignition controlled source    
 **COM** Connect **T** to pin **10** on the obd connector, OBD pin out available in the connection chapter    
 
-![20231017_062911](https://github.com/Popov77/EDiPOP/assets/59052047/b0762c45-b82c-42e4-9297-c451818235e9)
+![20231017_062911](https://github.com/Popov77/EDiPOP/assets/59052047/6299f174-a1fb-4272-81d0-b1c2dc984979)
 
 **Compatible sensors**  
 The exahust gas temperature sensors need to be k-type and suitable for >1000C.  
