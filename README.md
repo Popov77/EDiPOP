@@ -66,6 +66,13 @@ EDiPOP checks if any ECU/TCU DTC's are present when shifting in-between screen v
 **D** , One or multiple diagnostic trouble codes present   
 **M** , Indicates there is no TCU available, likely a manual transmission.  
 
+# Connect  
+Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android and apple smart devices require data coverage to allow hotspot sharing. 
+Follow these steps to connect EDiPOP upon your initial set up.  
+1. Activate your hotspot sharing
+2. Change your **SSID** name to Hotspot and password to **abcd1234** 
+3. Identify the IP address of EDIPOP in the listed hotspot connections   
+
 # Connections  
 EDiPOP pin out enables for external connections, specific details found below. 
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
@@ -78,13 +85,6 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 **11** , MiPOP communication pin, see chapter MiPOP for further details    
 
 ![EDiPOP pin_out v2 (1)](https://github.com/Popov77/EDiPOP/assets/59052047/5dbf3732-422f-4744-acca-8da9d59de35b)
-
-# Connect  
-Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android and apple smart devices require data coverage to allow hotspot sharing. 
-Follow these steps to connect EDiPOP upon your initial set up.  
-1. Activate your hotspot sharing
-2. Change your **SSID** name to Hotspot and password to **abcd1234** 
-3. Identify the IP address of EDIPOP in the listed hotspot connections   
 
 **Ethanol sensor**  
 Picture below demonstrates how to wire the ethanol sensor.  
