@@ -2,6 +2,8 @@
 
 ![image](https://github.com/Popov77/EDiPOP/assets/59052047/09ec6bb1-3284-4f13-ae8d-0e5171de9561)
 
+# Introduction
+
 EDiPOP is a user-friendly OBD module which connects through WiFi to a mobile smart device. 
 A set of various live engine data fetched from the ECU/TCU/Sensors is presented in the browser. The data assists in monitoring engine health and performance capacity. 
 
@@ -9,7 +11,7 @@ Start you engine and your ready to log and display data in the matter of seconds
 
 • OBD dongle format, easy to install. No need for permanent installation and wiring  
 • 2-5 times faster refresh rate compared to other similar market leading tools   
-• Mukltiple pre-defined screens with essential live engine/transmission data values   
+• Multiple pre-defined screens with essential live engine/transmission data values   
 • Compatible with external flex fuel sensor, displaying ethanol content and temperature  
 • Capable of measuring acceleration times, 0-100, 100-200   
 • ECU/TCU diagnostic trouble code monitoring  
@@ -29,7 +31,7 @@ Start you engine and your ready to log and display data in the matter of seconds
 
 **Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly!**
   
--------------------------------------------------------------------------------------------------------------------------------------------  
+# Interface
 
 **Screens views**  
 • TEMP - engine temperatures  
@@ -57,6 +59,17 @@ Following indicators can be displayed by the Hz counter.
 **e1** Communication loss  
 
 Reconnect EDiPOP and check your mobile smart device connections if you get the **e1** indication   
+
+**DTC indication**  
+EDiPOP checks if any ECU/TCU DTC's are present when shifting inbetween screen views. E represents ECU, T represents TCU  
+**-** No diagnostic trouble codes present    
+**D** One or multiple diagnostic trouble codes present   
+**M** Indicates there is no TCU available, likely a manual transmission.  
+
+# Connections  
+
+
+# MiPOP  
 
 
 
