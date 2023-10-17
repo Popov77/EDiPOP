@@ -76,7 +76,7 @@ Follow these steps to connect EDiPOP upon your initial set up.
 5. Identify the IP address of EDIPOP in the listed hotspot connections  
 6. Start your browser and enter your IP number, example: **192.168.34.188/0**  
 
-EDiPOP should auto connect next time you go for a ride if the above settings have not been changed.  
+EDiPOP should auto connect next time you go for a ride if the above settings have not changed.  
 
 # Connections  
 EDiPOP pin out enables for external connections, specific details found below. 
