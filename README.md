@@ -54,22 +54,55 @@ The Hz indicator shows the speed of the can bus data and sensors shown in the sc
 The update frequencey of the Hz indicator itself has intentionally been sloved down to avoid high speed flickering, making it easier to read.   
 
 Following indicators can be displayed by the Hz counter.  
-**-** Engine not running   
-**=** Running engine  
-**e1** Communication loss  
+**-** , Engine not running   
+**=** , Running engine  
+**e1** , Communication loss  
 
-Reconnect EDiPOP and check your mobile smart device connections if you get the **e1** indication   
+Reconnect EDiPOP and check your mobile smart device connections if you get the **e1** indication.     
 
 **DTC indication**  
 EDiPOP checks if any ECU/TCU DTC's are present when shifting inbetween screen views. E represents ECU, T represents TCU  
-**-** No diagnostic trouble codes present    
-**D** One or multiple diagnostic trouble codes present   
-**M** Indicates there is no TCU available, likely a manual transmission.  
+**-** , No diagnostic trouble codes present    
+**D** , One or multiple diagnostic trouble codes present   
+**M** , Indicates there is no TCU available, likely a manual transmission.  
 
 # Connections  
+EDiPOP pin out enables for external connections, specific details found below. 
+Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not carefull.  
+
+**2** , Ethanol sensor for read out of fuel blend ratio        
+**3** , 3.3V alarm event digital output signal   
+**7** , 3.3V analog input signal  
+**9** , 3.3V analog input signal     
+**10** , MiPOP communication pin, see chapter MiPOP for further details    
+**11** , MiPOP communication pin, see chapter MiPOP for further details    
+
+![EDiPOP pin_out v2 (1)](https://github.com/Popov77/EDiPOP/assets/59052047/5dbf3732-422f-4744-acca-8da9d59de35b)
+
+**Ethanol sensor**  
+Picture below demonstrates how to wire the ethanol sensor.  
+Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not carefull.  
+![EDiPOP - Ethanol wiring (3)](https://github.com/Popov77/EDiPOP/assets/59052047/c4e59aa5-93ea-4f03-be82-2f99d3770e7b)
+
+The following ethanol sensor is proven to work.  
+Be carfull as you purchse your sensor as there are several replicas out on the market, by from a trusted source.   
+![d3880c617ad69f5d4275668f1da2f5c2 (2)](https://github.com/Popov77/EDiPOP/assets/59052047/372a540a-f05e-4a60-8e26-1eaa12474661)
 
 
 # MiPOP  
+MiPOP is a extension module with added inputs and outputs for future platform expansions. 
+Following features are available when using MiPOP.  
+
+**EGT1** , Exhaust gas temperature sensor, reading from 100-1000C  
+**EGT2** , Exhaust gas temperature sensor, reading from 100-1000C    
+**EMAP** , Exhaust backpressure sensor, 0-10bar  
+
+**PWR** needs 12V, connect to a fused (10A) ignition controlled source.  
+**COM** Connect **T** to pin **10** on the obd connector, OBD pin out avilable in the connection chapter.  
+
+![20231017_062911](https://github.com/Popov77/EDiPOP/assets/59052047/b0762c45-b82c-42e4-9297-c451818235e9)
+
+
 
 
 
