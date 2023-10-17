@@ -79,6 +79,13 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 
 ![EDiPOP pin_out v2 (1)](https://github.com/Popov77/EDiPOP/assets/59052047/5dbf3732-422f-4744-acca-8da9d59de35b)
 
+# Connect  
+Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android and apple smart devices require data coverage to allow hotspot sharing. 
+Follow these steps to connect EDiPOP upon your initial set up.  
+1. Activate your hotspot sharing
+2. Change your **SSID** name to Hotspot and password to **abcd1234** 
+3. Identify the IP address of EDIPOP in the listed hotspot connections   
+
 **Ethanol sensor**  
 Picture below demonstrates how to wire the ethanol sensor.  
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
@@ -87,13 +94,6 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 The following ethanol sensor is proven to work, GM 13577429 .  
 Be carful as you purchase your sensor, several replicas out on the market.   
 ![d3880c617ad69f5d4275668f1da2f5c2 (2)](https://github.com/Popov77/EDiPOP/assets/59052047/372a540a-f05e-4a60-8e26-1eaa12474661)
-
-# Connect  
-Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android and apple smart devices require data coverage to allow hotspot sharing. 
-Follow these steps to connect EDiPOP upon your initial set up.  
-1. Activate your hotspot sharing
-2. Change your **SSID** name to Hotspot and password to **abcd1234** 
-3. Identify the IP address of EDIPOP in the listed hotspot connections   
 
 # MiPOP  
 MiPOP is a extension module with added inputs and outputs for future platform expansions. 
