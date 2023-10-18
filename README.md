@@ -90,7 +90,7 @@ Select a micro SD card with a 100MB/s writing speed or higher to prevent slowing
 
 ![20231018_110858](https://github.com/Popov77/EDiPOP/assets/59052047/2aad8026-5a92-4c3c-9a14-33f1b314b8f0)
 
-Before proceeding, make sure you format your micro SD card as FAT32. Use a software tool like SD Card Formater to complete the formatting.  
+Before proceeding, make sure you format your micro SD card as FAT32. Use a software tool like SD Card Formatter to complete the formatting.  
 Available for download: https://www.sdcardformatter.com/  
 
 ![Captureykyu](https://github.com/Popov77/EDiPOP/assets/59052047/e285fadd-0f1c-4a57-81fa-1660abf78757)
