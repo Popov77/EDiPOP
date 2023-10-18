@@ -45,7 +45,7 @@ Start you engine and your ready to log and display data in the matter of seconds
 • TURBO - ignition, boost and external EGT/EMAP sensor measurements   
 • TCU - transmission pressure, temperature and launch count  
 • TIMES - acceleration measurements  
-• BLEND - external ethanol sensor measurement
+• BLEND - external ethanol sensor measurement and fuel trims. Including a blend ratio calculator 
 
 ![Untitled](https://github.com/Popov77/EDiPOP/assets/59052047/2f81678f-2400-4933-82f6-b58b6420b510)  
 
@@ -79,6 +79,16 @@ Follow these steps to connect EDiPOP upon your initial set up.
 
 EDiPOP should auto connect next time you go for a ride if the above settings have not changed.  
 
+Some smart devices will not present you the option of listing connected hotspots. Download a separate network analyzer app to assist in finding the IP address of EDiPOP. The Network Scanner app has been tested and proven to work.  
+
+![Screenshot_20231018_112314_Google Play Store](https://github.com/Popov77/EDiPOP/assets/59052047/dca41941-f04b-4a7f-948a-e340f1bdcd5d)
+
+# Logging  
+
+Logging is physically only possible on the EDiPOP v2 as it requires a micro SD card.  
+
+![20231018_110858](https://github.com/Popov77/EDiPOP/assets/59052047/2aad8026-5a92-4c3c-9a14-33f1b314b8f0)
+
 # Connections  
 EDiPOP pin out enables for external connections, specific details found below. 
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
@@ -98,7 +108,8 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 ![EDiPOP - Ethanol wiring (3)](https://github.com/Popov77/EDiPOP/assets/59052047/fa5b2673-840c-420e-88e0-9d5415ec2be8)  
 
 The following ethanol sensor is proven to work, GM 13577429 .  
-Be carful as you purchase your sensor, several replicas out on the market.   
+Be carful as you purchase your sensor, several replicas out on the market. 
+
 ![d3880c617ad69f5d4275668f1da2f5c2 (2)](https://github.com/Popov77/EDiPOP/assets/59052047/1cd5f30b-cd5e-4aa4-8bf5-b3dcdf74eb46)  
 
 # MiPOP  
@@ -115,11 +126,14 @@ Following features are available when using MiPOP.
 ![20231017_062911](https://github.com/Popov77/EDiPOP/assets/59052047/6299f174-a1fb-4272-81d0-b1c2dc984979)
 
 **Compatible sensors**  
-The exahust gas temperature sensors need to be k-type and suitable for >1000C.  
-PIC   
+The exahust gas temperature sensors has to be a 2 wire k-type and suitable for >1000C.  
 
-The exhaust backpressure sensor should have a linear output signal between 0,5-4,5 volt.  
-PIC  
+![20231018_110958](https://github.com/Popov77/EDiPOP/assets/59052047/c50a7678-6c61-49a3-87e1-355d92f29b8c)
+
+
+The exhaust backpressure sensor must have a linear output signal between 0,5-4,5 volt. 3 wires needed, 5V/Signal/GND.    
+ 
+![20231018_110945](https://github.com/Popov77/EDiPOP/assets/59052047/94b1c2b9-5672-463f-a522-81e091b2870d)
 
 
 
