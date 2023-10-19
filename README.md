@@ -8,7 +8,7 @@
 EDiPOP is a user-friendly OBD module which connects through WiFi to a mobile smart device. 
 A set of various live engine data fetched from the ECU/TCU/Sensors is presented in the browser. The data assists in monitoring engine health and performance capacity. 
 
-Start you engine and you´re ready to log and display data in the matter of seconds.  
+Start you engine and you're ready to log and display data in the matter of seconds.  
 
 • OBD dongle format, easy to install. No need for permanent installation and wiring  
 • 2-5 times faster refresh rate compared to other similar market leading tools   
