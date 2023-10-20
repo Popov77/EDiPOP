@@ -100,7 +100,7 @@ EDiPOP pin out enables for external connections, specific details found below.
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
 
 **2** , Ethanol sensor for read out of fuel blend ratio        
-**3** , 3.3V alarm event digital output signal   
+**3** , 3.3V/40mA digital output signal   
 **7** , 3.3V analog input signal  
 **9** , 3.3V analog input signal     
 **10** , MiPOP communication pin, see chapter MiPOP for further details    
