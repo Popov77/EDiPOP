@@ -72,7 +72,7 @@ Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android an
 Follow these steps to connect EDiPOP upon your initial set up.  
 1. Activate your hotspot sharing  
 2. Set to 2.4GHz broadband  
-3. Change your **SSID** name to Hotspot and password to **abcd1234**  
+3. Change your SSID name to **Hotspot** and password to **abcd1234**  
 4. Connect EDiPOP to the OBD connector    
 5. Identify the IP address of EDIPOP in the listed hotspot connections  
 6. Start your browser and enter your IP number, example: **192.168.34.188/0**  
