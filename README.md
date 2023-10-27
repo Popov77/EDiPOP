@@ -33,7 +33,8 @@ Start you engine and you're ready to log and display data in the matter of secon
 **EDiPOP versions**   
 
 EDiPOP comes in two versions, v1 and v2. The primary distinction between them is that v2 is equipped with an SD card reader/writer and a buzzer.  
-With v2, you have the capability to save logs, which can be easily shared via email for more in-depth analysis and study. V1 has been discontinued but remains supported.
+With v2, you have the capability to save logs, which can be easily shared via email for more in-depth analysis and study.  
+V1 has been discontinued but remains supported.
 
 **Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly!**  
   
