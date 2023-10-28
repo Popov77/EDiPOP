@@ -103,6 +103,8 @@ Available for download: https://www.sdcardformatter.com/
 # Updates  
 You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card. OTA updates are used to update both the EDiPOP firmware and filesystem.  
 
+![Screenshot_20231027_225125_Chrome](https://github.com/Popov77/EDiPOP/assets/59052047/3d4012d1-01d0-4a1c-b572-c99c447254ed)
+
 To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Updating the filesystem is not always necessary, typically only the firmware requires an update. The release notes will inform you whether both the firmware and filesystem need to be updated.
 
 Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process.  
