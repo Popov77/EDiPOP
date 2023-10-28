@@ -103,7 +103,7 @@ Available for download: https://www.sdcardformatter.com/
 # Updates  
 You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.    
 
-![Screenshot_20231027_225125_Chrome](https://github.com/Popov77/EDiPOP/assets/59052047/3d4012d1-01d0-4a1c-b572-c99c447254ed)
+![Screenshot_20231027_225125_Chrome](https://github.com/Popov77/EDiPOP/assets/59052047/ddb2e017-c705-42a7-a83e-c4fbb76fec78)
 
 OTA updates are used to update both the EDiPOP firmware and filesystem. ElegantOTA is an external service, acessed from the menu system of EDiPOP. On some occasions, the automatic forwarding to ElegantOTA may fail. In such cases, you can force it by appending **/update** to your IP address.
 
