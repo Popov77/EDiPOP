@@ -113,8 +113,8 @@ To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Upda
 
 Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process.  
  
-The necessary files, along with release notes, are published whenever new updates are released.
-Caution when updating EDiPOP, a mishappening can brick EDiPOP and require you to send it back.   
+The necessary files, along with release notes, are published whenever new updates are released.  
+**Caution when updating EDiPOP, a mishappening can brick EDiPOP and require you to send it back!**   
 
 # Connections  
 EDiPOP pin out enables for external connections, specific details found below. 
