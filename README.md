@@ -107,7 +107,7 @@ You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.
 
 OTA updates are used to update both the EDiPOP firmware and filesystem. ElegantOTA is an external service, acessed from the menu system of EDiPOP. On some occasions, the automatic forwarding to ElegantOTA may fail. In such cases, you can force it by appending **/update** to your IP address.
 
-![Screenshot_20231027_225207_Chrome](https://github.com/Popov77/EDiPOP/assets/59052047/403eda3e-e90e-4062-ab9b-eb7983a35b38)
+![Screenshot_20231027_225207_Chrome rtbt](https://github.com/Popov77/EDiPOP/assets/59052047/19978c5c-ab97-49d5-9299-723985cc8df8)
 
 To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Updating the filesystem is not always necessary, typically only the firmware requires an update. The release notes will inform you whether both the firmware and filesystem need to be updated.
 
