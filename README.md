@@ -93,7 +93,7 @@ Some smart devices will not present you the option of listing connected hotspots
 Logging is physically only possible on the EDiPOP v2 as it requires a micro SD card.   
 Select a micro SD card with a 100MB/s writing speed or higher to prevent slowing down the refresh rates.  
 
-![276218277-2aad8026-5a92-4c3c-9a14-33f1b314b8f0_40](https://github.com/Popov77/EDiPOP/assets/59052047/ec92b922-83fb-4256-a75d-72456e5544ab)
+![276218277-2aad8026-5a92-4c3c-9a14-33f1b314b8f0_22](https://github.com/Popov77/EDiPOP/assets/59052047/07134e18-1d38-4ee0-84d9-e394301422ff)
 
 Before proceeding, make sure you format your micro SD card as FAT32. Use a software tool like SD Card Formatter to complete the formatting.  
 Available for download: https://www.sdcardformatter.com/  
@@ -105,11 +105,11 @@ You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.
 
 Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **.bin** file. This step will help EDiPOP identify the firmware upload file.
 
-![Screenshot_20231027_225125_Chrome](https://github.com/Popov77/EDiPOP/assets/59052047/ddb2e017-c705-42a7-a83e-c4fbb76fec78)
+![Screenshot_20231027_225125_Chrome (1)](https://github.com/Popov77/EDiPOP/assets/59052047/e7e92863-f3a0-41c9-a8bc-a4ef743ae80a)
 
 OTA updates are used to update both the EDiPOP firmware and filesystem. ElegantOTA is an external service, acessed from the menu system of EDiPOP. On some occasions, the automatic forwarding to ElegantOTA may fail. In such cases, you can force it by appending **/update** to your IP address.
 
-![Screenshot_20231027_225207_Chrome rtbt](https://github.com/Popov77/EDiPOP/assets/59052047/19978c5c-ab97-49d5-9299-723985cc8df8)
+![Screenshot_20231027_225207_Chrome (1)_55](https://github.com/Popov77/EDiPOP/assets/59052047/a6914ca2-0399-40fb-84a5-c0e86e1eebd6)
 
 To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Updating the filesystem is not always necessary, typically only the firmware requires an update. The release notes will inform you whether both the firmware and filesystem need to be updated.  
  
