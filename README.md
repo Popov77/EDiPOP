@@ -86,15 +86,14 @@ EDiPOP should auto connect next time you go for a ride if the above settings hav
 
 Some smart devices will not present you the option of listing connected hotspots. Download a separate network analyzer app to assist in finding the IP address of EDiPOP. The Network Scanner app has been tested and proven to work.  
 
-![276194466-dca41941-f04b-4a7f-948a-e340f1bdcd5d_70](https://github.com/Popov77/EDiPOP/assets/59052047/d40fff84-b45d-438f-acae-a51e60307fa6)
-
+![276194466-dca41941-f04b-4a7f-948a-e340f1bdcd5d_55](https://github.com/Popov77/EDiPOP/assets/59052047/c7e40149-c2b3-400e-ae35-e3be905245d8)
 
 # Logging  
 
 Logging is physically only possible on the EDiPOP v2 as it requires a micro SD card.   
 Select a micro SD card with a 100MB/s writing speed or higher to prevent slowing down the refresh rates.  
 
-![20231018_110858](https://github.com/Popov77/EDiPOP/assets/59052047/2aad8026-5a92-4c3c-9a14-33f1b314b8f0)
+![276218277-2aad8026-5a92-4c3c-9a14-33f1b314b8f0_40](https://github.com/Popov77/EDiPOP/assets/59052047/ec92b922-83fb-4256-a75d-72456e5544ab)
 
 Before proceeding, make sure you format your micro SD card as FAT32. Use a software tool like SD Card Formatter to complete the formatting.  
 Available for download: https://www.sdcardformatter.com/  
