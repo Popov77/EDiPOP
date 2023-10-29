@@ -86,7 +86,8 @@ EDiPOP should auto connect next time you go for a ride if the above settings hav
 
 Some smart devices will not present you the option of listing connected hotspots. Download a separate network analyzer app to assist in finding the IP address of EDiPOP. The Network Scanner app has been tested and proven to work.  
 
-![Screenshot_20231018_112314_Google Play Store](https://github.com/Popov77/EDiPOP/assets/59052047/dca41941-f04b-4a7f-948a-e340f1bdcd5d)
+![276194466-dca41941-f04b-4a7f-948a-e340f1bdcd5d_70](https://github.com/Popov77/EDiPOP/assets/59052047/d40fff84-b45d-438f-acae-a51e60307fa6)
+
 
 # Logging  
 
