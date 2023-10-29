@@ -127,7 +127,7 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 **10** , MiPOP communication pin, see chapter MiPOP for further details    
 **11** , MiPOP communication pin, see chapter MiPOP for further details    
 
-![EDiPOP pin_out v2_25](https://github.com/Popov77/EDiPOP/assets/59052047/1e82b2fd-891a-4315-86a6-15d7d5bde97c)
+![EDiPOP pin_out v2_25](https://github.com/Popov77/EDiPOP/assets/59052047/7e68b2bb-8266-43ec-bbbb-3a91e107dd92)
 
 **Ethanol sensor**  
 Picture below demonstrates how to wire the ethanol sensor.  
@@ -149,17 +149,18 @@ Following features are available when using MiPOP.
 **PWR** needs 12V, connect to a fused (10A) ignition controlled source    
 **COM** Connect **T** to pin **10** on the obd connector, OBD pin out available in the connection chapter    
 
-![20231017_062911](https://github.com/Popov77/EDiPOP/assets/59052047/6299f174-a1fb-4272-81d0-b1c2dc984979)
+![20231017_062911_19](https://github.com/Popov77/EDiPOP/assets/59052047/498c1b0b-ac28-45cd-8283-27f8af013d8b)
 
 **Compatible sensors**  
-The exahust gas temperature sensors has to be a 2 wire k-type and suitable for >1000C.  
+The exhaust gas temperature sensors must be 2-wire K-type sensors and should be suitable for operating at temperatures exceeding 1000°C.  
+The following sensors have been tested and proven to be working.
 
-![20231018_110958](https://github.com/Popov77/EDiPOP/assets/59052047/c50a7678-6c61-49a3-87e1-355d92f29b8c)
+![276190238-c50a7678-6c61-49a3-87e1-355d92f29b8c_19](https://github.com/Popov77/EDiPOP/assets/59052047/e8d49fd5-153f-4c09-afac-b4181d16a8c6)
 
-
-The exhaust backpressure sensor must have a linear output signal between 0,5-4,5 volt. 3 wires needed, 5V/Signal/GND.    
+The exhaust backpressure sensor must provide a linear output signal ranging from 0.5 to 4.5 volts.   
+It requires three wires, including connections for 5V power, signal output, and ground (GND).
  
-![20231018_110945](https://github.com/Popov77/EDiPOP/assets/59052047/94b1c2b9-5672-463f-a522-81e091b2870d)
+![276190148-94b1c2b9-5672-463f-a522-81e091b2870d](https://github.com/Popov77/EDiPOP/assets/59052047/198d6fc7-7907-4ed7-8139-facbf2e6fa1a)
 
 
 
