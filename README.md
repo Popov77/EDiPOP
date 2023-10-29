@@ -127,17 +127,16 @@ Connecting and wiring pins require electrical skills, EDiPOP can be damaged if y
 **10** , MiPOP communication pin, see chapter MiPOP for further details    
 **11** , MiPOP communication pin, see chapter MiPOP for further details    
 
-![EDiPOP pin_out v2 (1)](https://github.com/Popov77/EDiPOP/assets/59052047/aaede381-d03b-40b0-b5d8-6e7d6cd0bae6)  
+![EDiPOP pin_out v2_25](https://github.com/Popov77/EDiPOP/assets/59052047/1e82b2fd-891a-4315-86a6-15d7d5bde97c)
 
 **Ethanol sensor**  
 Picture below demonstrates how to wire the ethanol sensor.  
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
-![EDiPOP - Ethanol wiring (3)](https://github.com/Popov77/EDiPOP/assets/59052047/fa5b2673-840c-420e-88e0-9d5415ec2be8)  
+![EDiPOP - Ethanol wiring_25](https://github.com/Popov77/EDiPOP/assets/59052047/a6efc5f3-f7e4-45a1-a7f6-1df695684831)
 
 The following ethanol sensor is proven to work, GM 13577429 .  
 Be carful as you purchase your sensor, several replicas out on the market. 
-
-![d3880c617ad69f5d4275668f1da2f5c2 (2)](https://github.com/Popov77/EDiPOP/assets/59052047/1cd5f30b-cd5e-4aa4-8bf5-b3dcdf74eb46)  
+![d3880c617ad69f5d4275668f1da2f5c2 _83](https://github.com/Popov77/EDiPOP/assets/59052047/80ea8b69-257b-4979-8f96-a761c9475f0f)
 
 # MiPOP  
 MiPOP is a extension module with added inputs and outputs for future platform expansions. 
