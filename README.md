@@ -103,15 +103,15 @@ Available for download: https://www.sdcardformatter.com/
 # Updates  
 You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.    
 
+Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **.bin** file. This step will help EDiPOP identify the firmware upload file.
+
 ![Screenshot_20231027_225125_Chrome](https://github.com/Popov77/EDiPOP/assets/59052047/ddb2e017-c705-42a7-a83e-c4fbb76fec78)
 
 OTA updates are used to update both the EDiPOP firmware and filesystem. ElegantOTA is an external service, acessed from the menu system of EDiPOP. On some occasions, the automatic forwarding to ElegantOTA may fail. In such cases, you can force it by appending **/update** to your IP address.
 
 ![Screenshot_20231027_225207_Chrome rtbt](https://github.com/Popov77/EDiPOP/assets/59052047/19978c5c-ab97-49d5-9299-723985cc8df8)
 
-To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Updating the filesystem is not always necessary, typically only the firmware requires an update. The release notes will inform you whether both the firmware and filesystem need to be updated.
-
-Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process.  
+To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Updating the filesystem is not always necessary, typically only the firmware requires an update. The release notes will inform you whether both the firmware and filesystem need to be updated.  
  
 The necessary files, along with release notes, are published whenever new updates are released.  
 **Caution when updating EDiPOP, a mishappening can brick EDiPOP and require you to send it back!**   
