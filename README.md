@@ -103,7 +103,7 @@ Available for download: https://www.sdcardformatter.com/
 # Updates  
 You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.    
 
-Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **.bin** file. This step will help EDiPOP identify the firmware upload file.
+Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **.bin** file. This step will help EDiPOP identify the firmware upload file. The buzzer will sound an alarm to notify you when the update is completed using an SD card.
 
 ![Screenshot_20231027_225125_Chrome (1)](https://github.com/Popov77/EDiPOP/assets/59052047/e7e92863-f3a0-41c9-a8bc-a4ef743ae80a)
 
@@ -114,7 +114,7 @@ OTA updates are used to update both the EDiPOP firmware and filesystem. ElegantO
 To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Updating the filesystem is not always necessary, typically only the firmware requires an update. The release notes will inform you whether both the firmware and filesystem need to be updated.  
  
 The necessary files, along with release notes, are published whenever new updates are released.  
-**Caution when updating EDiPOP, a mishappening can brick EDiPOP and require you to send it back!**   
+**Caution when updating EDiPOP, a mishappening can brick EDiPOP and require you to send it back! Follow the instructions carefully provided by EDiPOP**   
 
 # Connections  
 EDiPOP pin out enables for external connections, specific details found below. 
