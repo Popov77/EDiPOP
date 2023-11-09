@@ -88,10 +88,10 @@ Some smart devices will not present you the option of listing connected hotspots
 
 ![276194466-dca41941-f04b-4a7f-948a-e340f1bdcd5d_55](https://github.com/Popov77/EDiPOP/assets/59052047/c7e40149-c2b3-400e-ae35-e3be905245d8)
 
-# Logging  
+# microSD  
 
-Logging is physically only possible on the EDiPOP v2 as it requires a micro SD card.   
-Select a micro SD card with a 100MB/s writing speed or higher to prevent slowing down the refresh rates.  
+EDiPOP v2 is equipped with a micro SD card reader/writer, allowing for logging and firmware updates through the SD card.    
+Select a micro SD card with a 100MB/s writing speed or higher to prevent slowing down the refresh rates when logging.    
 
 ![276218277-2aad8026-5a92-4c3c-9a14-33f1b314b8f0_22](https://github.com/Popov77/EDiPOP/assets/59052047/07134e18-1d38-4ee0-84d9-e394301422ff)
 
@@ -103,7 +103,7 @@ Available for download: https://www.sdcardformatter.com/
 # Updates  
 You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.    
 
-Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **.bin** file. This step will help EDiPOP identify the firmware upload file. The buzzer will sound an alarm to notify you when the update is completed using an SD card.
+Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a micro SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **EDiPOP_update.bin** file. This step will help EDiPOP identify the firmware upload file. The buzzer will sound an alarm to notify you when the update is completed using an SD card.
 
 ![Screenshot_20231027_225125_Chrome (1)](https://github.com/Popov77/EDiPOP/assets/59052047/e7e92863-f3a0-41c9-a8bc-a4ef743ae80a)
 
