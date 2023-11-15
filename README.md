@@ -91,8 +91,7 @@ Some smart devices will not present you the option of listing connected hotspots
 
 # Android App  
 
-The android app saves you the hassle of keeping track of the IP URL address. The Android operating system will change it randomly.   
-It keeps the screen active and switches on/off the hotspot as you use the app.    
+The Android application eliminates the need for manually monitoring the IP URL address, as the Android operating system automatically updates it at random intervals. Additionally, the app ensures that the screen remains active and manages the hotspot, turning it on or off based on your app usage.     
 
 You need to configure the following:    
 **SSID** EDiPOP ssid name, typically **EDiPOP**        
