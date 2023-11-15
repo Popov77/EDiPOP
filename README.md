@@ -1,9 +1,9 @@
-# EDiPOP
+# EDiPOP  
 
 ![184566707_2064185513723466_4226522359891638157_n (1)](https://github.com/Popov77/EDiPOP/assets/59052047/8b256e4f-fe04-46b0-a9ae-b84b460ad3ec)  
 
 
-# Introduction
+# Introduction  
 
 EDiPOP is a user-friendly OBD module which connects through WiFi to a mobile smart device. 
 A set of various live engine data fetched from the ECU/TCU/Sensors is presented in the browser. The data assists in monitoring engine health and performance capacity. 
@@ -37,7 +37,7 @@ V1 has been discontinued but remains supported.
 
 **Disclaimer, EDiPOP cannot be the cause of technical issues and will not be liable for any damages when used incorrectly!**  
   
-# Interface
+# Interface  
 
 **Screens views**  
 • TEMP - engine temperatures  
@@ -73,6 +73,7 @@ EDiPOP checks if any ECU/TCU DTC's are present when shifting in-between screen v
 **M** , Indicates there is no TCU available, likely a manual transmission.  
 
 # Connect  
+
 Your mobile smart device must be 2.4GHz Wi-Fi Hotspot compatible. New android and apple smart devices require data coverage to allow hotspot sharing. 
 Follow these steps to connect EDiPOP upon your initial set up.  
 1. Activate your hotspot sharing  
@@ -88,6 +89,20 @@ Some smart devices will not present you the option of listing connected hotspots
 
 ![276194466-dca41941-f04b-4a7f-948a-e340f1bdcd5d_55](https://github.com/Popov77/EDiPOP/assets/59052047/c7e40149-c2b3-400e-ae35-e3be905245d8)
 
+# Android App  
+
+The android app saves you the hazzle of keeping track of the IP URL address. The Android operating system will change it randomley.   
+It keeps the screen active and switches on/off the hotspot as you use the app.  
+You need to configure the following: 
+**SSID** EDiPOP ssid name, typically **EDiPOP**    
+**MAC** The specific MAC address, physical identifier of EDiPOP  
+**Delay** Amount of time it takes for the app to start, default is 3 seconds    
+**Ip Extension** Staring screen view, default is **/0**   
+
+![Screenshot_20231115_120046_EDiPOP_55](https://github.com/Popov77/EDiPOP/assets/59052047/888b623d-eefa-46dd-bd2c-3ca777d77c5a)
+
+
+
 # microSD  
 
 EDiPOP v2 is equipped with a micro SD card reader/writer, allowing for logging and firmware updates through the SD card.    
@@ -100,7 +115,8 @@ Available for download: https://www.sdcardformatter.com/
 
 ![Captureykyu](https://github.com/Popov77/EDiPOP/assets/59052047/e285fadd-0f1c-4a57-81fa-1660abf78757)
 
-# Updates  
+# Updates    
+
 You can update EDiPOP in two ways, over the air (OTA) or via an micro SD card.    
 
 Micro SD card updates are only available for EDiPOP v2 users as EDiPOP lacks a micro SD card reader/writer. Using a micro SD card enables you to update the EDiPOP firmware, you'll require a **.bin** file for this process. Remove all pre-existing files from the micro SD card, leaving only the update firmware **EDiPOP_update.bin** file. This step will help EDiPOP identify the firmware upload file. The buzzer will sound an alarm to notify you when the update is completed using an SD card.
@@ -116,7 +132,8 @@ To perform an OTA update, you'll need two files: **.bin** and **.spiffs** . Upda
 The necessary files, along with release notes, are published whenever new updates are released.  
 **Caution when updating EDiPOP, a mishappening can brick EDiPOP and require you to send it back! Follow the instructions carefully provided by EDiPOP**   
 
-# Connections  
+# Connections   
+
 EDiPOP pin out enables for external connections, specific details found below. 
 Connecting and wiring pins require electrical skills, EDiPOP can be damaged if you are not careful.  
 
@@ -138,7 +155,8 @@ The following ethanol sensor is proven to work, GM 13577429 .
 Be carful as you purchase your sensor, several replicas out on the market. 
 ![d3880c617ad69f5d4275668f1da2f5c2 _83](https://github.com/Popov77/EDiPOP/assets/59052047/80ea8b69-257b-4979-8f96-a761c9475f0f)
 
-# MiPOP  
+# MiPOP   
+
 MiPOP is a extension module with added inputs and outputs for future platform expansions. 
 Following features are available when using MiPOP.  
 
