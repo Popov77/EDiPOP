@@ -91,13 +91,13 @@ Some smart devices will not present you the option of listing connected hotspots
 
 # Android App  
 
-The android app saves you the hazzle of keeping track of the IP URL address. The Android operating system will change it randomley.   
+The android app saves you the hassle of keeping track of the IP URL address. The Android operating system will change it randomly.   
 It keeps the screen active and switches on/off the hotspot as you use the app.    
 
 You need to configure the following:    
 **SSID** EDiPOP ssid name, typically **EDiPOP**        
-**MAC** The specific MAC address, physical identifier of EDiPOP, it's always different         
-**Delay** Amount of time it takes for the app to start, default is 3 seconds        
+**MAC** The specific individual MAC address, physical identifier of EDiPOP        
+**Delay** Amount of time it takes for the app to start, default is **3** seconds        
 **Ip Extension** Staring screen view, default is **/0**     
 
 ![Screenshot_20231115_120046_EDiPOP_55](https://github.com/Popov77/EDiPOP/assets/59052047/888b623d-eefa-46dd-bd2c-3ca777d77c5a)
