@@ -99,9 +99,12 @@ You need to configure the following:
 **Delay** Amount of time it takes for the app to start, default is **3** seconds        
 **Ip Extension** Staring screen view, default is **/0**     
 
+**NOTE!** Adhere to this procedure to guarantee the app operates at its best. 
+1. Activate your hotspot sharing  
+2. Turn on ignition/crank engine 
+3. Launch the app once the engine is running   
+
 ![Screenshot_20231115_120046_EDiPOP_55](https://github.com/Popov77/EDiPOP/assets/59052047/888b623d-eefa-46dd-bd2c-3ca777d77c5a)
-
-
 
 # microSD  
 
