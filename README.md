@@ -1,7 +1,7 @@
 # EDiPOP  
 
 ![184566707_2064185513723466_4226522359891638157_n (1)](https://github.com/Popov77/EDiPOP/assets/59052047/8b256e4f-fe04-46b0-a9ae-b84b460ad3ec)  
-
+ 
 
 # Introduction  
 
